@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lepharam Ramchiary</h1>
+<h1 align="center">Hi 👋, I'm Lepharam Ramchiary👨‍💻</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmp5MHl3d3IxMmk3dndoMzRzeHR3OGlmM3oyaXM3dWQ1cDZuZXJmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" >
