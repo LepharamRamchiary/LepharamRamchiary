@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me [**mail**](lepharamchiary@gmail.com)
+- 📫 How to reach me **lepharamchiary@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18CwPKCo5i4Y9RQFpJ8aEXNWHisrqrfiU/view?usp=sharing)
 
