@@ -18,12 +18,12 @@
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/18CwPKCo5i4Y9RQFpJ8aEXNWHisrqrfiU/view?usp=sharing)
 
 - ⚡ Fun fact **I'm passionate about Coding and I like to Debugging Codes**
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lepharamramchiary&label=Profile%20views&color=0e75b6&style=flat" alt="lepharamramchiary" /> </p>
 
 <h1></h1>
+<h3 align="left">📊 My Github Stats:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lepharamramchiary" alt="lepharamramchiary" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lepharamramchiary&label=Profile%20views&color=0e75b6&style=flat" alt="lepharamramchiary" /> </p>
 <h1></h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
