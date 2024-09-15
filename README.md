@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **Full-Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://my-new-portfolio-ebon-six.vercel.app](https://my-new-portfolio-ebon-six.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://my-new-portfolio-ebon-six.vercel.app)
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **lepharamchiary@gmail.com**
+- 📫 How to reach me [mail](lepharamchiary@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1n7d7-P5HSp4FaOa7gLIxvWq4tJCrtMyz/view?usp=sharing](https://drive.google.com/file/d/1n7d7-P5HSp4FaOa7gLIxvWq4tJCrtMyz/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18CwPKCo5i4Y9RQFpJ8aEXNWHisrqrfiU/view?usp=sharing)
 
 - ⚡ Fun fact **I'm passionate about Coding and I like to Debugging Codes**
 
