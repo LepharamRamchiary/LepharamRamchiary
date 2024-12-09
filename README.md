@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmp5MHl3d3IxMmk3dndoMzRzeHR3OGlmM3oyaXM3dWQ1cDZuZXJmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" >
 
-- 🌱 I’m currently learning **PHP and CodeIgniter4**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
