@@ -8,6 +8,8 @@
 <h6 align="center">Explore my projects, where I share my journey of building innovative solutions and refining my skills. Feel free to check out the code, contribute, or connect!</h6>
 
 ---
+## Skills & Stack
+
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -34,7 +36,14 @@
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LepharamRamchiary&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LepharamRamchiary&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
@@ -42,6 +51,14 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LepharamRamchiary&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
 </p>
+
+---
+
+## Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lepharam-ramchiary-576282215)  
+- 💻 [Portfolio](https://profile-ruby-eight.vercel.app)  
+- 📧 Email: `lepharamchiary@gmail.com`
 
 ---
 
