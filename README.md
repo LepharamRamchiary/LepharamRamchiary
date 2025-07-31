@@ -1,4 +1,3 @@
-<!-- Optional banner image -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Lepharam%20Ramchiary&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner" />
 </p>
