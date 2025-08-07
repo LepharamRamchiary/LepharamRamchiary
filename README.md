@@ -41,14 +41,14 @@
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LepharamRamchiary&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LepharamRamchiary&theme=tokyonight&no-bg=true&no-frame=true&column=9" alt="GitHub Trophies" width="900"/>
 </p>
 
 ---
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LepharamRamchiary&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LepharamRamchiary&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="400"/>
   <img src="https://streak-stats.demolab.com/?user=LepharamRamchiary&theme=tokyonight&hide_border=true" width="400"/>
 </p>
 
